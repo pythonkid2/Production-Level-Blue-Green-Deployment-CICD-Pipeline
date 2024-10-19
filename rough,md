@@ -1,0 +1,25 @@
+rough -
+
+create one instance with 20 gd ebs ubuntu t2.medium
+connect to vm 
+
+
+installl aws cli and connect
+aws configure
+
+
+install terraform 
+
+git clone 
+
+cd cluster 
+terraform init 
+aapply
+
+3 server -
+
+one for sonar 
+one for jenkins 
+one for nexus
+ 
+
