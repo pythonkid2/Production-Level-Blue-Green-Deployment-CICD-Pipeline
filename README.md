@@ -71,7 +71,9 @@ Ensure that the necessary ports are open in the security group for communication
 
 ---
 
-Feel free to add any additional details or instructions based on your project's specific requirements!
+install aws cli
+
+https://docs.aws.amazon.com/cli/v1/userguide/install-linux.html
 
 2. **EKS Cluster Configuration**:
    - Deploy and configure the EKS cluster to host the application and manage Kubernetes resources.
